@@ -2,37 +2,37 @@
   
 ╭──────────────────────────────────────────╮
   
-# 💜 ⋆｡°✩ (｡♥‿♥｡) ✩°｡⋆ 💜
-# ˚₊· ͟͟͞͞➳❥ Привет, я Lemirda! ⋆｡°✧₊˚
+# 💜 (｡♥‿♥｡) 💜
+# Привет, я Lemirda!
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="65">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=✧+Full+Stack+Developer+✧;♡+Anime+Enthusiast+♡;⋆+Creative+Coder+⋆;✩+Making+Dreams+Real+✩)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Anime+Enthusiast;Creative+Coder;Making+Dreams+Real)](https://git.io/typing-svg)
   
-  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
+  ˚₊· ͟͟͞͞➳❥ Привет, я Lemirda! ⋆｡°✧₊˚
 
 ╰──────────────────────────────────────────╯
 
 </div>
 
-## 🌸 ⋆｡°✧₊˚ Обо мне ˚₊·͟͟͞͞➳❥
+## 🌸 Обо мне
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Lemirda ♡"
-        self.role = "Full Stack Developer ⋆｡°✩"
+        self.name = "Lemirda"
+        self.role = "Full Stack Developer"
         self.languages = {
-            "primary": ["Python ✧", "C# ♡", "JavaScript ⋆"],
-            "secondary": ["HTML ✿", "CSS ❀", "C++ ✧"]
+            "primary": ["Python", "C#", "JavaScript"],
+            "secondary": ["HTML", "CSS", "C++"]
         }
-        self.interests = ["Coding ⌨️", "Anime ✧", "Technology 💜"]
-        self.current_focus = "Создание креативных веб-приложений ˎˊ˗"
-        self.favorite_anime = ["Steins;Gate ⚡", "Code Geass 👑", "Death Note 📓"]
-        self.daily_routine = ["Coding ⋆｡°✧", "Learning ♡", "Creating ✨"]
+        self.interests = ["Coding", "Anime", "Technology"]
+        self.current_focus = "Создание креативных веб-приложений"
+        self.favorite_anime = ["Steins;Gate", "Code Geass", "Death Note"]
+        self.daily_routine = ["Coding", "Learning", "Creating"]
 ```
 
-## 🎮 ⋆｡°✧₊˚ Мой стек технологий ˚₊·͟͟͞͞➳❥
+## 🎮 Мой стек технологий
 
 <div align="center">
   
@@ -47,7 +47,7 @@ class Developer:
   
 </div>
 
-## 🛠️ ⋆｡°✧₊˚ Инструменты и фреймворки ˚₊·͟͟͞͞➳❥
+## 🛠️ Инструменты и фреймворки
 
 <div align="center">
   
@@ -61,40 +61,35 @@ class Developer:
   
 </div>
 
-## 📊 ⋆｡°✧₊˚ GitHub Статистика ˚₊·͟͟͞͞➳❥
+## 📊 GitHub Статистика
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemirda&show_icons=true&theme=midnight-purple)
+  <!-- GitHub Stats Card -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemirda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=midnight-purple)](https://git.io/streak-stats)
+  <!-- GitHub Streak Stats -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=midnight-purple&hide_border=true&background=0D1117)](https://git.io/streak-stats)
   
-  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
+  <!-- Activity Graph -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lemirda&bg_color=0D1117&color=9146FF&line=9146FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <!-- Achievements -->
+  <details>
+    <summary>🏆 GitHub Трофеи</summary>
+    
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Lemirda&theme=discord&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+  </details>
+  
+  <!-- Contribution Calendar -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
   
 </div>
 
-## 🌟 ⋆｡°✧₊˚ Найти меня ˚₊·͟͟͞͞➳❥
+## 🌟 Найти меня
 
 <div align="center">
   
   [![Discord](https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lemird)
   
-  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-  
-  ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚
-  
-  <img src="https://komarev.com/ghpvc/?username=Lemirda&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS">
-  
-  ╭──────────────────────────────────────────╮
-  
-  Thanks for visiting! Have a lovely day! ♡
-  
-  ╰──────────────────────────────────────────╯
 </div>
