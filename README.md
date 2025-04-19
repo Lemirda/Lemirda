@@ -21,15 +21,15 @@ class Developer:
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/-Python-9146FF?style=for-the-badge&logo=python&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-9146FF?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-9146FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-9146FF?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-9146FF?style=for-the-badge&logo=javascript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-9146FF?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-9146FF?style=for-the-badge&logo=css3&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-9146FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
-  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
-  
+  <!-- Skill Progress Bars -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
 ## 🛠️ Инструменты и фреймворки
@@ -57,12 +57,8 @@ class Developer:
   <!-- Activity Graph -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lemirda&bg_color=0D1117&color=9146FF&line=9146FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  <!-- Achievements -->
-  <details>
-    <summary>🏆 GitHub Трофеи</summary>
-    
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Lemirda&theme=discord&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-  </details>
+  <!-- Trophies -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Lemirda&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
   
   <!-- Contribution Calendar -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
@@ -75,4 +71,20 @@ class Developer:
   
   [![Discord](https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lemird)
   
+  <!-- Spotify Now Playing -->
+  [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/lemird)
+  
+  <!-- Profile Views Counter with animation -->
+  <img src="https://komarev.com/ghpvc/?username=Lemirda&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS">
+  
+  <!-- Random Dev Quote -->
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  
 </div>
+
+<!-- GitHub Profile 3D Contribution Calendar -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lemirda/Lemirda/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lemirda/Lemirda/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lemirda/Lemirda/output/github-contribution-grid-snake.svg">
+</picture>
