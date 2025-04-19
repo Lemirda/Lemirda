@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Anime+Enthusiast;Creative+Coder;Making+Dreams+Real)](https://git.io/typing-svg)
 </div>
 
-## <div align="center">�� Обо мне</div>
+<h2 align="center">🌸 Обо мне</h2>
 
 ```python
 class Developer:
