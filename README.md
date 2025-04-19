@@ -15,6 +15,7 @@ class Developer:
             "primary": ["Python", "C#", "JavaScript"],
             "secondary": ["HTML", "CSS", "C++"]
         }
+        self.current_status = "Coding Dreams into Reality ✨"
 ```
 
 ## 🎮 Мой стек технологий
@@ -36,11 +37,11 @@ class Developer:
 
 <div align="center">
   
+  ![.NET](https://img.shields.io/badge/-.NET-9146FF?style=for-the-badge&logo=.net&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-9146FF?style=for-the-badge&logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-9146FF?style=for-the-badge&logo=node.js&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-9146FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-9146FF?style=for-the-badge&logo=git&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-9146FF?style=for-the-badge&logo=react&logoColor=white)
-  ![.NET](https://img.shields.io/badge/-.NET-9146FF?style=for-the-badge&logo=.net&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-9146FF?style=for-the-badge&logo=node.js&logoColor=white)
   
 </div>
 
@@ -60,9 +61,6 @@ class Developer:
   <!-- Trophies -->
   [![trophy](https://github-profile-trophy.vercel.app/?username=Lemirda&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
   
-  <!-- Contribution Calendar -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-  
 </div>
 
 ## 🌟 Найти меня
@@ -71,20 +69,17 @@ class Developer:
   
   [![Discord](https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lemird)
   
-  <!-- Spotify Now Playing -->
-  [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/lemird)
-  
-  <!-- Profile Views Counter with animation -->
-  <img src="https://komarev.com/ghpvc/?username=Lemirda&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS">
-  
-  <!-- Random Dev Quote -->
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  
 </div>
 
-<!-- GitHub Profile 3D Contribution Calendar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lemirda/Lemirda/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lemirda/Lemirda/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lemirda/Lemirda/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=100&section=footer" width="100%">
+
+<!-- Dynamic Particles Animation -->
+[![Particles](https://particles.js.org/images/demo.png)](https://particles.js.org)
+
+<div align="center">
+  
+  <!-- Typing Animation -->
+  [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Спасибо+за+посещение+моего+профиля!;Happy+Coding!+✨)](https://git.io/typing-svg)
+  
+</div>
