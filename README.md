@@ -71,15 +71,5 @@ class Developer:
   
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=100&section=footer" width="100%">
-
-<!-- Dynamic Particles Animation -->
-[![Particles](https://particles.js.org/images/demo.png)](https://particles.js.org)
-
-<div align="center">
-  
-  <!-- Typing Animation -->
-  [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Спасибо+за+посещение+моего+профиля!;Happy+Coding!+✨)](https://git.io/typing-svg)
-  
-</div>
+<!-- Header Footer Decoration -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=62" width="100%">
