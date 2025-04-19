@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Anime+Enthusiast;Creative+Coder;Making+Dreams+Real)](https://git.io/typing-svg)
 </div>
 
-## 🌸 Обо мне
+## <div align="center">�� Обо мне</div>
 
 ```python
 class Developer:
@@ -18,7 +18,7 @@ class Developer:
         self.current_status = "Coding Dreams into Reality ✨"
 ```
 
-## 🎮 Мой стек технологий
+## <div align="center">🎮 Мой стек технологий</div>
 
 <div align="center">
   
@@ -33,7 +33,7 @@ class Developer:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
-## 🛠️ Инструменты и фреймворки
+## <div align="center">🛠️ Инструменты и фреймворки</div>
 
 <div align="center">
   
@@ -45,7 +45,7 @@ class Developer:
   
 </div>
 
-## 📊 GitHub Статистика
+## <div align="center">📊 GitHub Статистика</div>
 
 <div align="center">
   
@@ -63,7 +63,7 @@ class Developer:
   
 </div>
 
-## 🌟 Найти меня
+## <div align="center">🌟 Найти меня</div>
 
 <div align="center">
   
@@ -71,5 +71,4 @@ class Developer:
   
 </div>
 
-<!-- Header Footer Decoration -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=62" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=120&section=footer" width="100%">
