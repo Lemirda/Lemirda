@@ -6,9 +6,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="65">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=✧+Full+Stack+Developer+✧;♡+Anime+Enthusiast+♡;⋆+Creative+Coder+⋆)](https://git.io/typing-svg)
-  
-  🌸
-  
+
 </div>
 
 ## 🌸 Обо мне
@@ -74,8 +72,6 @@ class Developer:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-  
-  ✨
-  
+
   <img src="https://komarev.com/ghpvc/?username=Lemirda&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS">
 </div>
