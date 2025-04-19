@@ -1,15 +1,21 @@
 <div align="center">
   
+╭──────────────────────────────────────────╮
+  
 # 💜 ⋆｡°✩ (｡♥‿♥｡) ✩°｡⋆ 💜
-# Привет, я Lemirda!
+# ˚₊· ͟͟͞͞➳❥ Привет, я Lemirda! ⋆｡°✧₊˚
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="65">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=✧+Full+Stack+Developer+✧;♡+Anime+Enthusiast+♡;⋆+Creative+Coder+⋆)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=✧+Full+Stack+Developer+✧;♡+Anime+Enthusiast+♡;⋆+Creative+Coder+⋆;✩+Making+Dreams+Real+✩)](https://git.io/typing-svg)
+  
+  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
+
+╰──────────────────────────────────────────╯
 
 </div>
 
-## 🌸 Обо мне
+## 🌸 ⋆｡°✧₊˚ Обо мне ˚₊·͟͟͞͞➳❥
 
 ```python
 class Developer:
@@ -17,15 +23,16 @@ class Developer:
         self.name = "Lemirda ♡"
         self.role = "Full Stack Developer ⋆｡°✩"
         self.languages = {
-            "primary": ["Python", "C#", "JavaScript"],
-            "secondary": ["HTML", "CSS", "C++"]
+            "primary": ["Python ✧", "C# ♡", "JavaScript ⋆"],
+            "secondary": ["HTML ✿", "CSS ❀", "C++ ✧"]
         }
         self.interests = ["Coding ⌨️", "Anime ✧", "Technology 💜"]
         self.current_focus = "Создание креативных веб-приложений ˎˊ˗"
-        self.favorite_anime = ["Steins;Gate", "Code Geass", "Death Note"]
+        self.favorite_anime = ["Steins;Gate ⚡", "Code Geass 👑", "Death Note 📓"]
+        self.daily_routine = ["Coding ⋆｡°✧", "Learning ♡", "Creating ✨"]
 ```
 
-## 🎮 Мой стек технологий
+## 🎮 ⋆｡°✧₊˚ Мой стек технологий ˚₊·͟͟͞͞➳❥
 
 <div align="center">
   
@@ -36,9 +43,11 @@ class Developer:
   ![CSS3](https://img.shields.io/badge/-CSS3-9146FF?style=for-the-badge&logo=css3&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-9146FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
+  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
+  
 </div>
 
-## 🛠️ Инструменты и фреймворки
+## 🛠️ ⋆｡°✧₊˚ Инструменты и фреймворки ˚₊·͟͟͞͞➳❥
 
 <div align="center">
   
@@ -48,9 +57,11 @@ class Developer:
   ![.NET](https://img.shields.io/badge/-.NET-9146FF?style=for-the-badge&logo=.net&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-9146FF?style=for-the-badge&logo=node.js&logoColor=white)
   
+  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
+  
 </div>
 
-## 📊 GitHub Статистика
+## 📊 ⋆｡°✧₊˚ GitHub Статистика ˚₊·͟͟͞͞➳❥
 
 <div align="center">
   
@@ -58,13 +69,17 @@ class Developer:
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=midnight-purple)](https://git.io/streak-stats)
   
+  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
+  
 </div>
 
-## 🌟 Найти меня
+## 🌟 ⋆｡°✧₊˚ Найти меня ˚₊·͟͟͞͞➳❥
 
 <div align="center">
   
   [![Discord](https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lemird)
+  
+  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
   
 </div>
 
@@ -72,6 +87,14 @@ class Developer:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
+  
+  ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚
+  
   <img src="https://komarev.com/ghpvc/?username=Lemirda&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS">
+  
+  ╭──────────────────────────────────────────╮
+  
+  Thanks for visiting! Have a lovely day! ♡
+  
+  ╰──────────────────────────────────────────╯
 </div>
