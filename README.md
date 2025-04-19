@@ -1,9 +1,13 @@
-# 💜 Привет, я Lemirda! 
+# (｡♥‿♥｡) Привет, я Lemirda! 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="50">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&random=false&width=435&lines=Full+Stack+Developer;Anime+Enthusiast;Creative+Coder)](https://git.io/typing-svg)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="65">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=✧+Full+Stack+Developer+✧;♡+Anime+Enthusiast+♡;⋆+Creative+Coder+⋆)](https://git.io/typing-svg)
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cherry%20Blossom.png" width="25">
+  
 </div>
 
 ## 🌸 Обо мне
@@ -11,14 +15,14 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Lemirda"
-        self.role = "Full Stack Developer"
+        self.name = "Lemirda ♡"
+        self.role = "Full Stack Developer ⋆｡°✩"
         self.languages = {
             "primary": ["Python", "C#", "JavaScript"],
             "secondary": ["HTML", "CSS", "C++"]
         }
-        self.interests = ["Coding", "Anime", "Technology"]
-        self.current_focus = "Создание креативных веб-приложений"
+        self.interests = ["Coding ⌨️", "Anime ✧", "Technology 💜"]
+        self.current_focus = "Создание креативных веб-приложений ˎˊ˗"
         self.favorite_anime = ["Steins;Gate", "Code Geass", "Death Note"]
 ```
 
@@ -59,20 +63,11 @@ class Developer:
   
 </div>
 
-## 🌟 Связаться со мной
+## 🌟 Найти меня
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/-GitHub-9146FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lemirda)
-  [![Discord](https://img.shields.io/badge/-Discord-9146FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Lemirda)
-  
-</div>
-
-## ⭐ Избранные проекты
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lemirda&repo=Lemirda&theme=midnight-purple)](https://github.com/Lemirda/Lemirda)
+  [![Discord](https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lemird)
   
 </div>
 
@@ -80,8 +75,8 @@ class Developer:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
-
-<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="30">
+  
   <img src="https://komarev.com/ghpvc/?username=Lemirda&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS">
 </div>
