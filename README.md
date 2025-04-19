@@ -1,18 +1,7 @@
 <div align="center">
-  
-╭──────────────────────────────────────────╮
-  
-# 💜 (｡♥‿♥｡) 💜
-# Привет, я Lemirda!
-
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="65">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Anime+Enthusiast;Creative+Coder;Making+Dreams+Real)](https://git.io/typing-svg)
-  
-  ˚₊· ͟͟͞͞➳❥ Привет, я Lemirda! ⋆｡°✧₊˚
-
-╰──────────────────────────────────────────╯
-
 </div>
 
 ## 🌸 Обо мне
@@ -26,10 +15,6 @@ class Developer:
             "primary": ["Python", "C#", "JavaScript"],
             "secondary": ["HTML", "CSS", "C++"]
         }
-        self.interests = ["Coding", "Anime", "Technology"]
-        self.current_focus = "Создание креативных веб-приложений"
-        self.favorite_anime = ["Steins;Gate", "Code Geass", "Death Note"]
-        self.daily_routine = ["Coding", "Learning", "Creating"]
 ```
 
 ## 🎮 Мой стек технологий
@@ -56,8 +41,6 @@ class Developer:
   ![React](https://img.shields.io/badge/-React-9146FF?style=for-the-badge&logo=react&logoColor=white)
   ![.NET](https://img.shields.io/badge/-.NET-9146FF?style=for-the-badge&logo=.net&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-9146FF?style=for-the-badge&logo=node.js&logoColor=white)
-  
-  ˚₊· ͟͟͞͞➳❥ ♡ ⋆｡°✧₊˚ ♡ ˚₊· ͟͟͞͞➳❥
   
 </div>
 
