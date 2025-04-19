@@ -1,7 +1,9 @@
 # 💜 Привет, я Lemirda! 
 
 <div align="center">
-  <img src="https://i.imgur.com/wzJ1S2N.gif" width="300">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="50">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&random=false&width=435&lines=Full+Stack+Developer;Anime+Enthusiast;Creative+Coder)](https://git.io/typing-svg)
 </div>
 
 ## 🌸 Обо мне
@@ -16,6 +18,8 @@ class Developer:
             "secondary": ["HTML", "CSS", "C++"]
         }
         self.interests = ["Coding", "Anime", "Technology"]
+        self.current_focus = "Создание креативных веб-приложений"
+        self.favorite_anime = ["Steins;Gate", "Code Geass", "Death Note"]
 ```
 
 ## 🎮 Мой стек технологий
@@ -31,6 +35,18 @@ class Developer:
   
 </div>
 
+## 🛠️ Инструменты и фреймворки
+
+<div align="center">
+  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-9146FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-9146FF?style=for-the-badge&logo=git&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-9146FF?style=for-the-badge&logo=react&logoColor=white)
+  ![.NET](https://img.shields.io/badge/-.NET-9146FF?style=for-the-badge&logo=.net&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-9146FF?style=for-the-badge&logo=node.js&logoColor=white)
+  
+</div>
+
 ## 📊 GitHub Статистика
 
 <div align="center">
@@ -39,6 +55,8 @@ class Developer:
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=midnight-purple)
   
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=midnight-purple)](https://git.io/streak-stats)
+  
 </div>
 
 ## 🌟 Связаться со мной
@@ -46,11 +64,24 @@ class Developer:
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/-GitHub-9146FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lemirda)
+  [![Discord](https://img.shields.io/badge/-Discord-9146FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Lemirda)
+  
+</div>
+
+## ⭐ Избранные проекты
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lemirda&repo=Lemirda&theme=midnight-purple)](https://github.com/Lemirda/Lemirda)
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lemirda&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS">
 </div>
