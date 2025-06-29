@@ -1,32 +1,26 @@
-<!-- Красивый заголовок с анимированным фоном -->
+<!-- Милый аниме-стиль заголовок -->
 <div align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=190&section=header&text=Lemirda&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Anime%20Enthusiast&descAlignY=60&descSize=22&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=190&section=header&text=Lemirda&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=22&animation=fadeIn" width="100%" />
   </a>
   
-  <!-- Анимированные эмодзи -->
+  <!-- Милые аниме эмодзи -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="55">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="55">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="55">
   
-  <!-- Улучшенная анимированная печать -->
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&duration=3500&pause=1200&color=9146FF&center=true&vCenter=true&random=false&width=500&height=60&lines=Coding+Dreams+into+Reality;Рисую+кодом+аниме-миры;Creative+Problem+Solver;Открытый+для+сотрудничества" alt="Typing SVG" />
-  </a>
+  <!-- Счетчик просмотров в аниме-стиле -->
+  <a href="#"><img src="https://count.getloli.com/get/@Lemirda?theme=rule34" alt="Profile Views" /></a>
 
   <!-- Разделитель -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 </div>
 
-<!-- Улучшенная секция Обо мне с эффектом "карточки" -->
+<!-- Обо мне в стиле аниме-карточки -->
 <table align="center">
 <tr><td>
 
-<h2 align="center">🌸 Обо мне <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="35"></h2>
-
-<div align="center">
-  <a href="#"><img src="https://count.getloli.com/get/@Lemirda?theme=rule34" alt="Profile Views" /></a>
-</div>
+<h2 align="center">🌸 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="35"></h2>
 
 ```python
 class Lemirda:
@@ -37,42 +31,24 @@ class Lemirda:
             "primary": ["Python", "C#", "JavaScript"],
             "secondary": ["HTML", "CSS", "C++"]
         }
-        self.interests = ["Anime", "Game Development", "AI", "UI/UX"]
-        self.current_status = "Coding Dreams into Reality ✨"
-        self.favorite_quote = "Бесконечное творчество через код"
-        
-    def say_hello(self):
-        return "Спасибо, что заглянули в мой профиль! (づ ◕‿◕ )づ"
+        self.frameworks = [".NET", "React", "Node.js"]
+        self.tools = ["VS Code", "Git"]
 ```
 
 </td></tr>
 </table>
 
-<!-- Стилизованная секция технологий -->
-<div align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&fontSize=0" width="100%">
-  </a>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" width="30"/> Мой стек технологий</h2>
-</div>
-
-<!-- Карточка технологий с анимацией при наведении -->
+<!-- Навыки с милыми иконками -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,dotnet,react,nodejs,vscode,git&theme=dark&perline=6" alt="Skills" />
-  
-  <!-- Модифицированная карточка языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9146FF&text_color=FFFFFF&icon_color=9146FF" alt="Most Used Languages" />
 </div>
 
-<!-- Статистика GitHub с анимированными переходами -->
+<!-- Статистика GitHub в аниме-стиле -->
 <div align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,13,14,16,18,19,20,22,24&height=2&section=header&fontSize=0" width="100%">
-  </a>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> GitHub Статистика</h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30">
 </div>
 
-<!-- Статистика в виде карточек с эффектами -->
+<!-- Статистика в виде карточек с аниме-эффектами -->
 <p align="center">
   <table>
     <tr>
@@ -87,27 +63,27 @@ class Lemirda:
   </table>
 </p>
 
-<!-- Трофеи с анимированной подсветкой -->
+<!-- Языки программирования -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9146FF&text_color=FFFFFF&icon_color=9146FF" alt="Most Used Languages" />
+</div>
+
+<!-- Трофеи с аниме-стилем -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lemirda&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="Trophy" />
 </div>
 
-<!-- Контакты с анимацией на наведении -->
+<!-- Контакты с милыми иконками -->
 <div align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,13,14,16,18,19,20,22,24&height=2&section=header&fontSize=0" width="100%">
-  </a>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkles.png" width="30"/> Найти меня</h2>
-</div>
-
-<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkles.png" width="30">
+  
   <a href="https://discordapp.com/users/lemird">
     <img src="https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=9146FF" alt="Discord" />
   </a>
   <!-- Здесь можно добавить другие социальные сети -->
 </div>
 
-<!-- Анимированный футер -->
+<!-- Милый аниме-футер -->
 <div align="center">
   <a href="#">
     <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
