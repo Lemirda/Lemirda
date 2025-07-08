@@ -39,15 +39,6 @@
       </a>
     </div>
     <br>
-    <div>
-      <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9AEFF&text_color=FFFFFF" />
-      </a>
-      <a href="#">
-        <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Lemirda&theme=discord&no-frame=true&no-bg=true&row=2&column=3" />
-      </a>
-    </div>
-    <br>
     <!-- Добавленная карта активности -->
     <div>
       <a href="#">
@@ -71,23 +62,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lemirda&theme=midnight_purple" width="49%" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lemirda&theme=midnight_purple" width="49%" />
     </div>
-  </div>
-</div>
-
-<!-- Милая анимированная линия -->
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
-
-<!-- Проекты -->
-<div align="center">
-  <div>
-    <h2>✨ Мои проекты</h2>
-    <br>
-    <a href="https://github.com/Lemirda/project-name">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lemirda&repo=project-name&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9AEFF&text_color=FFFFFF&icon_color=C9AEFF" />
-    </a>
-    <a href="https://github.com/Lemirda/another-project">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lemirda&repo=another-project&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9AEFF&text_color=FFFFFF&icon_color=C9AEFF" />
-    </a>
   </div>
 </div>
 
