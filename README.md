@@ -10,21 +10,6 @@
   </a>
 </div>
 
-<!-- Милая анимированная линия -->
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
-
-<!-- Интерактивная карточка-приветствие -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=32&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&width=600&lines=Привет!+Меня+зовут+Lemirda;Добро+пожаловать+в+мой+профиль!;Я+Full+Stack+разработчик" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Милая анимированная карточка -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="240px" align="center">
-</p>
-
 <!-- Интерактивные навыки с анимацией -->
 <div align="center">
   <details open>
