@@ -1,58 +1,120 @@
+<!-- Милый аниме-стиль заголовок с градиентом -->
 <div align="center">
-  <!-- Минималистичный заголовок -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=9146FF&height=150&section=header&text=Lemirda&fontColor=FFFFFF&fontSize=70&animation=twinkling" width="100%" />
-  
-  <p><i>Full Stack Developer</i></p>
-</div>
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=190&section=header&text=Lemirda&fontColor=FFFFFF&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" />
+  </a>
 
-<br>
-
-<!-- Минималистичная линия -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
-</div>
-
-<br>
-
-<!-- Навыки -->
-<div align="center">
-  <h3>Технологии</h3>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,dotnet,react,nodejs,vscode,git&theme=dark&perline=11" alt="Skills" />
-</div>
-
-<br>
-
-<!-- Статистика GitHub -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lemirda&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=material-palenight&hide_border=true&background=00000000&stroke=9146FF&ring=9146FF&fire=DDA0DD" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000" alt="Most Used Languages" />
-</div>
-
-<br>
-
-<!-- Минималистичная линия -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
-</div>
-
-<br>
-
-<!-- Контакты -->
-<div align="center">
-  <a href="https://discordapp.com/users/lemird">
-    <img src="https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <!-- Анимированный счетчик просмотров в аниме-стиле -->
+  <a href="#">
+    <img src="https://count.getloli.com/get/@Lemirda?theme=rule34" alt="Profile Views" />
   </a>
 </div>
 
-<br>
+<!-- Милая анимированная линия -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
-<!-- Минималистичный футер -->
+<!-- Интерактивная карточка-приветствие -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=100&section=footer" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=32&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&width=600&lines=Привет!+Меня+зовут+Lemirda;Добро+пожаловать+в+мой+профиль!;Я+Full+Stack+разработчик" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Милая анимированная карточка -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="240px" align="center">
+</p>
+
+<!-- Интерактивные навыки с анимацией -->
+<div align="center">
+  <details open>
+    <summary><b>✨ Мои навыки</b></summary>
+    <br>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,dotnet,react,nodejs,vscode,git&theme=dark&perline=11" alt="Skills" />
+    <br><br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=Python+%7C+C%23+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+C%2B%2B;.NET+%7C+React+%7C+Node.js+%7C+VS+Code+%7C+Git" alt="Skills" />
+  </details>
+</div>
+
+<!-- Милая анимированная линия -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+<!-- Интерактивная статистика GitHub -->
+<div align="center">
+  <details open>
+    <summary><b>✨ GitHub Статистика</b></summary>
+    <br>
+    <!-- Анимированные карточки статистики -->
+    <div>
+      <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lemirda&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9AEFF&text_color=FFFFFF&icon_color=C9AEFF" />
+      </a>
+      <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C9AEFF&ring=C9AEFF&fire=DDA0DD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DDA0DD&sideLabels=DDA0DD&dates=C9AEFF" />
+      </a>
+    </div>
+    <br>
+    <div>
+      <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9AEFF&text_color=FFFFFF" />
+      </a>
+      <a href="#">
+        <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Lemirda&theme=discord&no-frame=true&no-bg=true&row=2&column=3" />
+      </a>
+    </div>
+  </details>
+</div>
+
+<!-- Милая анимированная линия -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+<!-- Интерактивная карточка с проектами -->
+<div align="center">
+  <details>
+    <summary><b>✨ Избранные проекты</b></summary>
+    <br>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemirda&repo=username.github.io&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9AEFF&icon_color=DDA0DD&text_color=FFFFFF" />
+    </a>
+    <!-- Здесь можно добавить больше проектов -->
+  </details>
+</div>
+
+<!-- Милая анимированная линия -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+<!-- Интерактивная карточка с контактами -->
+<div align="center">
+  <details>
+    <summary><b>✨ Связаться со мной</b></summary>
+    <br>
+    <a href="https://discordapp.com/users/lemird">
+      <img src="https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=9146FF" alt="Discord" />
+    </a>
+    <!-- Здесь можно добавить другие социальные сети -->
+  </details>
+</div>
+
+<!-- Милая анимированная линия -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+<!-- Интерактивная карточка с музыкой -->
+<div align="center">
+  <details>
+    <summary><b>✨ Что я слушаю</b></summary>
+    <br>
+    <a href="#">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrc6hzr7nqpn3zl5rswqk7sq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=9146FF&bar_color_cover=false" width="320px" />
+    </a>
+  </details>
+</div>
+
+<!-- Милая анимированная линия -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+<!-- Анимированный футер -->
+<div align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=120&section=footer&animation=fadeIn" width="100%" />
+  </a>
 </div>
