@@ -1,58 +1,74 @@
 <div align="center">
-  <!-- Минималистичный заголовок -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=9146FF&height=150&section=header&text=Lemirda&fontColor=FFFFFF&fontSize=70&animation=twinkling" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="65">
   
-  <p><i>Full Stack Developer</i></p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Anime+Enthusiast;Creative+Coder;Making+Dreams+Real)](https://git.io/typing-svg)
 </div>
 
-<br>
+<h2 align="center">🌸 Обо мне</h2>
 
-<!-- Минималистичная линия -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
-</div>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Lemirda"
+        self.role = "Full Stack Developer"
+        self.languages = {
+            "primary": ["Python", "C#", "JavaScript"],
+            "secondary": ["HTML", "CSS", "C++"]
+        }
+        self.current_status = "Coding Dreams into Reality ✨"
+```
 
-<br>
-
-<!-- Навыки -->
-<div align="center">
-  <h3>Технологии</h3>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,dotnet,react,nodejs,vscode,git&theme=dark&perline=11" alt="Skills" />
-</div>
-
-<br>
-
-<!-- Статистика GitHub -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lemirda&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=material-palenight&hide_border=true&background=00000000&stroke=9146FF&ring=9146FF&fire=DDA0DD" alt="GitHub Streak" />
-</div>
-
-<br>
+## <div align="center">🎮 Мой стек технологий</div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000" alt="Most Used Languages" />
+  
+  ![C#](https://img.shields.io/badge/-C%23-9146FF?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-9146FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-9146FF?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-9146FF?style=for-the-badge&logo=javascript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-9146FF?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-9146FF?style=for-the-badge&logo=css3&logoColor=white)
+  
+  <!-- Skill Progress Bars -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemirda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
-<br>
+## <div align="center">🛠️ Инструменты и фреймворки</div>
 
-<!-- Минималистичная линия -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
+  
+  ![.NET](https://img.shields.io/badge/-.NET-9146FF?style=for-the-badge&logo=.net&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-9146FF?style=for-the-badge&logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-9146FF?style=for-the-badge&logo=node.js&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-9146FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-9146FF?style=for-the-badge&logo=git&logoColor=white)
+  
 </div>
 
-<br>
+## <div align="center">📊 GitHub Статистика</div>
 
-<!-- Контакты -->
 <div align="center">
-  <a href="https://discordapp.com/users/lemird">
-    <img src="https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  
+  <!-- GitHub Stats Card -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemirda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
+  
+  <!-- GitHub Streak Stats -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=midnight-purple&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+  
+  <!-- Activity Graph -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lemirda&bg_color=0D1117&color=9146FF&line=9146FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <!-- Trophies -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Lemirda&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
-<br>
+## <div align="center">🌟 Найти меня</div>
 
-<!-- Минималистичный футер -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=100&section=footer" width="100%">
+  
+  [![Discord](https://img.shields.io/badge/-lemird-9146FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lemird)
+  
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=120&section=footer" width="100%">
