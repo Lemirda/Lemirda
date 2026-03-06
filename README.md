@@ -29,16 +29,6 @@
   <div>
     <h2>✨ GitHub Статистика</h2>
     <br>
-    <!-- Анимированные карточки статистики -->
-    <div>
-      <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lemirda&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9AEFF&text_color=FFFFFF&icon_color=C9AEFF" />
-      </a>
-      <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lemirda&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C9AEFF&ring=C9AEFF&fire=DDA0DD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DDA0DD&sideLabels=DDA0DD&dates=C9AEFF" />
-      </a>
-    </div>
-    <br>
     <!-- Добавленная карта активности -->
     <div>
       <a href="#">
@@ -82,3 +72,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=120&section=footer&animation=fadeIn" width="100%" />
   </a>
 </div>
+
+
+
